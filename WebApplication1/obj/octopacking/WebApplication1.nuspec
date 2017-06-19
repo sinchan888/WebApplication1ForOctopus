@@ -1,0 +1,142 @@
+<package>
+  <metadata>
+    <id>WebApplication1</id>
+    <version>1.0.0</version>
+    <authors>sinchand</authors>
+    <owners>sinchand</owners>
+    <tags>OctopusDeploy</tags>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The WebApplication1 deployment package, built on 6/15/2017</description>
+    <releaseNotes>first release</releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\About.aspx" target="About.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\AddPhoneNumber.aspx" target="Account\AddPhoneNumber.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\Confirm.aspx" target="Account\Confirm.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\Forgot.aspx" target="Account\Forgot.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\Lockout.aspx" target="Account\Lockout.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\Login.aspx" target="Account\Login.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\Manage.aspx" target="Account\Manage.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\ManageLogins.aspx" target="Account\ManageLogins.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\ManagePassword.aspx" target="Account\ManagePassword.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\OpenAuthProviders.ascx" target="Account\OpenAuthProviders.ascx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\Register.aspx" target="Account\Register.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\RegisterExternalLogin.aspx" target="Account\RegisterExternalLogin.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\ResetPassword.aspx" target="Account\ResetPassword.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\ResetPasswordConfirmation.aspx" target="Account\ResetPasswordConfirmation.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\TwoFactorAuthenticationSignIn.aspx" target="Account\TwoFactorAuthenticationSignIn.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\VerifyPhoneNumber.aspx" target="Account\VerifyPhoneNumber.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Contact.aspx" target="Contact.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Content\bootstrap.css" target="Content\bootstrap.css" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Content\bootstrap.min.css" target="Content\bootstrap.min.css" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Content\Site.css" target="Content\Site.css" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.svg" target="fonts\glyphicons-halflings-regular.svg" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.woff" target="fonts\glyphicons-halflings-regular.woff" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.ttf" target="fonts\glyphicons-halflings-regular.ttf" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.eot" target="fonts\glyphicons-halflings-regular.eot" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Account\Web.config" target="Account\Web.config" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\bootstrap.js" target="Scripts\bootstrap.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\bootstrap.min.js" target="Scripts\bootstrap.min.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\jquery-1.10.2.js" target="Scripts\jquery-1.10.2.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\jquery-1.10.2.min.js" target="Scripts\jquery-1.10.2.min.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\modernizr-2.6.2.js" target="Scripts\modernizr-2.6.2.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\respond.js" target="Scripts\respond.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\respond.min.js" target="Scripts\respond.min.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\DetailsView.js" target="Scripts\WebForms\DetailsView.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\Focus.js" target="Scripts\WebForms\Focus.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\GridView.js" target="Scripts\WebForms\GridView.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\Menu.js" target="Scripts\WebForms\Menu.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\MenuStandards.js" target="Scripts\WebForms\MenuStandards.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\MSAjax\MicrosoftAjax.js" target="Scripts\WebForms\MSAjax\MicrosoftAjax.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\MSAjax\MicrosoftAjaxApplicationServices.js" target="Scripts\WebForms\MSAjax\MicrosoftAjaxApplicationServices.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\MSAjax\MicrosoftAjaxComponentModel.js" target="Scripts\WebForms\MSAjax\MicrosoftAjaxComponentModel.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\MSAjax\MicrosoftAjaxCore.js" target="Scripts\WebForms\MSAjax\MicrosoftAjaxCore.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\MSAjax\MicrosoftAjaxGlobalization.js" target="Scripts\WebForms\MSAjax\MicrosoftAjaxGlobalization.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\MSAjax\MicrosoftAjaxHistory.js" target="Scripts\WebForms\MSAjax\MicrosoftAjaxHistory.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\MSAjax\MicrosoftAjaxNetwork.js" target="Scripts\WebForms\MSAjax\MicrosoftAjaxNetwork.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\MSAjax\MicrosoftAjaxSerialization.js" target="Scripts\WebForms\MSAjax\MicrosoftAjaxSerialization.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\MSAjax\MicrosoftAjaxTimer.js" target="Scripts\WebForms\MSAjax\MicrosoftAjaxTimer.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\MSAjax\MicrosoftAjaxWebForms.js" target="Scripts\WebForms\MSAjax\MicrosoftAjaxWebForms.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\MSAjax\MicrosoftAjaxWebServices.js" target="Scripts\WebForms\MSAjax\MicrosoftAjaxWebServices.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\SmartNav.js" target="Scripts\WebForms\SmartNav.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\TreeView.js" target="Scripts\WebForms\TreeView.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\WebForms.js" target="Scripts\WebForms\WebForms.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\WebParts.js" target="Scripts\WebForms\WebParts.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\WebForms\WebUIValidation.js" target="Scripts\WebForms\WebUIValidation.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\_references.js" target="Scripts\_references.js" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Default.aspx" target="Default.aspx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\favicon.ico" target="favicon.ico" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Global.asax" target="Global.asax" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Site.Master" target="Site.Master" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\ViewSwitcher.ascx" target="ViewSwitcher.ascx" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Web.config" target="Web.config" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Bundle.config" target="Bundle.config" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Scripts\jquery-1.10.2.min.map" target="Scripts\jquery-1.10.2.min.map" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\Site.Mobile.Master" target="Site.Mobile.Master" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe" target="bin\roslyn\csc.exe" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" target="bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" target="bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll" target="bin\roslyn\Microsoft.CodeAnalysis.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" target="bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets" target="bin\roslyn\Microsoft.CSharp.Core.targets" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets" target="bin\roslyn\Microsoft.VisualBasic.Core.targets" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll" target="bin\roslyn\System.Collections.Immutable.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll" target="bin\roslyn\System.Reflection.Metadata.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe" target="bin\roslyn\vbc.exe" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe" target="bin\roslyn\VBCSCompiler.exe" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config" target="bin\roslyn\VBCSCompiler.exe.config" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config" target="bin\WebApplication1.dll.config" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll" target="bin\WebApplication1.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb" target="bin\WebApplication1.pdb" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll" target="bin\Antlr3.Runtime.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll" target="bin\AspNet.ScriptManager.bootstrap.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll" target="bin\AspNet.ScriptManager.jQuery.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll" target="bin\EntityFramework.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll" target="bin\EntityFramework.SqlServer.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll" target="bin\Microsoft.AspNet.FriendlyUrls.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll" target="bin\Microsoft.AspNet.Identity.Core.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll" target="bin\Microsoft.AspNet.Identity.EntityFramework.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll" target="bin\Microsoft.AspNet.Identity.Owin.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll" target="bin\Microsoft.AspNet.Web.Optimization.WebForms.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" target="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll" target="bin\Microsoft.Owin.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll" target="bin\Microsoft.Owin.Host.SystemWeb.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll" target="bin\Microsoft.Owin.Security.Cookies.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll" target="bin\Microsoft.Owin.Security.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll" target="bin\Microsoft.Owin.Security.Facebook.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll" target="bin\Microsoft.Owin.Security.Google.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll" target="bin\Microsoft.Owin.Security.MicrosoftAccount.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll" target="bin\Microsoft.Owin.Security.OAuth.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll" target="bin\Microsoft.Owin.Security.Twitter.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll" target="bin\Microsoft.ScriptManager.MSAjax.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll" target="bin\Microsoft.ScriptManager.WebForms.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll" target="bin\Microsoft.Web.Infrastructure.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Owin.dll" target="bin\Owin.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll" target="bin\System.Web.Optimization.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Providers.dll" target="bin\System.Web.Providers.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll" target="bin\WebGrease.dll" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" target="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml" target="bin\System.Web.Optimization.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb" target="bin\Antlr3.Runtime.pdb" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml" target="bin\Newtonsoft.Json.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml" target="bin\Microsoft.AspNet.FriendlyUrls.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml" target="bin\EntityFramework.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml" target="bin\EntityFramework.SqlServer.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml" target="bin\Microsoft.AspNet.Identity.Core.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml" target="bin\Microsoft.AspNet.Identity.Owin.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml" target="bin\Microsoft.AspNet.Identity.EntityFramework.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Providers.xml" target="bin\System.Web.Providers.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml" target="bin\Microsoft.Owin.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml" target="bin\Microsoft.Owin.Host.SystemWeb.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml" target="bin\Microsoft.Owin.Security.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml" target="bin\Microsoft.Owin.Security.Facebook.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml" target="bin\Microsoft.Owin.Security.Cookies.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml" target="bin\Microsoft.Owin.Security.Google.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml" target="bin\Microsoft.Owin.Security.Twitter.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml" target="bin\Microsoft.Owin.Security.MicrosoftAccount.xml" />
+    <file src="C:\Users\sinchand\My Documents\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml" target="bin\Microsoft.Owin.Security.OAuth.xml" />
+  </files>
+</package>
